@@ -1,5 +1,6 @@
-# documentation
-issues/suggestons regarding challenge documentation
+# IBM Z XPlore challenge documentation
+
+Reporting issues/improvements regarding challenge documentation
 
 Please raise an Issue if you want to report errors in challenge documents, or request updated or new features.
 
